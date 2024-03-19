@@ -1,0 +1,25 @@
+package meupacote;
+
+	public class Main {
+		
+		public static void main(String[] args) {
+			  // TODO Auto-generated method stub
+			
+			Caneta c1 = new Caneta ();
+			c1.modelo = "Bic Azul Caneta";
+			c1.preco = 0.5;
+			c1.cor = "Azul";
+			c1.ponta = 0.7;
+			c1.carga = 50 ;
+			
+			
+			 System.out.println("Criamos a Caneta: " + c1.modelo); 
+			 System.out.println("Preço: " + c1.preco);
+			 System.out.println("Cor: " + c1.cor);
+			 System.out.println("Ponta: " + c1.ponta);
+			 System.out.println("Carga: " + c1.carga);
+			 
+			 
+			 
+
+		}}

@@ -1,0 +1,15 @@
+package meupacote;
+
+public class Caneta {
+	
+ String modelo;
+ double preco;
+ String cor;
+ double ponta;
+ double carga;
+	
+ public void escreva() {
+  
+  System.out.println("escrevendo");
+  }
+}
