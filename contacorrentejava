@@ -1,0 +1,14 @@
+package contaCorrente;
+
+public class ContaCorrente {
+	
+	public int num_doc_cc;
+	public int agencia_cc;
+	public int conta_cc;
+	public float valor_cc;
+	public int tipo_cc;
+	public String data_ocorrencia_cc;
+	public float saldo_cc;
+	public String senha;
+
+}
